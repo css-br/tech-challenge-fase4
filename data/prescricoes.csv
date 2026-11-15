@@ -1,0 +1,27 @@
+paciente_id,data_hora,medicamento,dose_mg
+P001,2026-03-02 08:00,losartana,50
+P001,2026-03-02 08:00,sinvastatina,20
+P001,2026-03-03 08:00,losartana,50
+P001,2026-03-03 08:00,sinvastatina,20
+P001,2026-03-04 08:00,losartana,50
+P001,2026-03-04 08:00,sinvastatina,20
+P001,2026-03-05 08:00,losartana,50
+P001,2026-03-05 08:00,sinvastatina,20
+P002,2026-03-02 09:00,furosemida,40
+P002,2026-03-02 09:00,enalapril,10
+P002,2026-03-03 09:00,furosemida,40
+P002,2026-03-03 09:00,enalapril,10
+P002,2026-03-04 09:00,furosemida,80
+P002,2026-03-04 09:00,enalapril,10
+P002,2026-03-05 09:00,furosemida,80
+P002,2026-03-05 09:00,enalapril,12.5
+P003,2026-03-02 10:00,metoprolol,25
+P003,2026-03-02 10:00,morfina,5
+P003,2026-03-03 10:00,metoprolol,25
+P003,2026-03-03 10:00,morfina,5
+P003,2026-03-04 10:00,metoprolol,25
+P003,2026-03-04 10:00,morfina,15
+P003,2026-03-04 14:00,amiodarona,200
+P003,2026-03-04 22:00,varfarina,5
+P003,2026-03-05 10:00,metoprolol,25
+P003,2026-03-05 10:00,morfina,15
