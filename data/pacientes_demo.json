@@ -1,0 +1,23 @@
+{
+  "P001": {
+    "descricao": "paciente estável",
+    "video": "data/amostras/fisio_correta.mp4",
+    "voz": "data/amostras/voz_saudavel.wav",
+    "consulta": "data/amostras/consulta_01_rotina.wav",
+    "sinais_vitais": "data/amostras/sinais_vitais_normal.csv"
+  },
+  "P002": {
+    "descricao": "paciente com queixas leves e ajuste de medicação; piora durante o monitoramento",
+    "video": "data/amostras/fisio_correta.mp4",
+    "voz": "data/amostras/voz_saudavel.wav",
+    "consulta": "data/amostras/consulta_02_cansaco.wav",
+    "sinais_vitais": "data/amostras/sinais_vitais_demo.csv"
+  },
+  "P003": {
+    "descricao": "paciente com vários sinais de piora já antes do monitoramento",
+    "video": "data/amostras/fisio_incorreta.mp4",
+    "voz": "data/amostras/voz_patologica.wav",
+    "consulta": "data/amostras/consulta_03_falta_de_ar.wav",
+    "sinais_vitais": "data/amostras/sinais_vitais_demo.csv"
+  }
+}

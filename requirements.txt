@@ -20,6 +20,7 @@ azure-cognitiveservices-speech
 azure-ai-textanalytics
 openai
 python-dotenv
+truststore
 
 # Desenvolvimento
 jupyter
