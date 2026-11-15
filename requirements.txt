@@ -1,27 +1,27 @@
 # Visao computacional
-opencv-python
-mediapipe
-ultralytics
+opencv-python==5.0.0.93
+mediapipe==1.2.3
+ultralytics==8.4.213
 
 # Audio e sinais
-librosa
-wfdb
+librosa==1.0.1
+wfdb==4.3.1
 
 # Modelos e dados
-scikit-learn
-pandas
-numpy
-matplotlib
-tqdm
-joblib
+scikit-learn==1.9.1
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+tqdm==4.70.1
+joblib==1.6.0
 
 # Azure
-azure-cognitiveservices-speech
-azure-ai-textanalytics
-openai
-python-dotenv
-truststore
+azure-cognitiveservices-speech==1.53.1
+azure-ai-textanalytics==5.4.0
+openai==3.51.0
+python-dotenv==1.2.4
+truststore==0.10.5
 
 # Desenvolvimento
-jupyter
-pytest
+jupyter==1.1.1
+pytest==9.2.0
