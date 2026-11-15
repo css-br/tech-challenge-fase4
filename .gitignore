@@ -15,3 +15,7 @@ __pycache__/
 
 # Documentos de trabalho (o relatório final fica em docs/)
 docs-internos/
+*.task
+
+# Saidas geradas na execucao
+results/
