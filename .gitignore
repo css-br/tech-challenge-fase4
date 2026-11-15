@@ -1,0 +1,17 @@
+# Segredos
+.env
+
+# Dados e modelos pesados
+data/raw/
+*.pt
+results/*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+
+# Documentos de trabalho (o relatório final fica em docs/)
+docs-internos/

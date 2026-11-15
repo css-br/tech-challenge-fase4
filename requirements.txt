@@ -1,0 +1,26 @@
+# Visao computacional
+opencv-python
+mediapipe
+ultralytics
+
+# Audio e sinais
+librosa
+wfdb
+
+# Modelos e dados
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
+joblib
+
+# Azure
+azure-cognitiveservices-speech
+azure-ai-textanalytics
+openai
+python-dotenv
+
+# Desenvolvimento
+jupyter
+pytest
