@@ -6,7 +6,7 @@ O sistema analisa **vídeo, áudio, texto e sinais vitais** de um paciente, dete
 combina os resultados em um nível de risco e emite um **alerta para a equipe médica**.
 
 - Relatório técnico: [docs/RELATORIO_TECNICO.md](docs/RELATORIO_TECNICO.md)
-- Vídeo de demonstração: [youtu.be/DfS4OUpHba4](https://youtu.be/DfS4OUpHba4)
+- Vídeo de demonstração: [youtu.be/fCXjVCvYE5c](https://youtu.be/fCXjVCvYE5c)
 
 ## Como funciona
 
