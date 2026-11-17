@@ -5,6 +5,7 @@ ultralytics==8.4.213
 
 # Audio e sinais
 librosa==1.0.1
+soundfile==0.14.0
 wfdb==4.3.1
 
 # Modelos e dados

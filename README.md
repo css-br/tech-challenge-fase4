@@ -66,7 +66,7 @@ Requer Python 3.12.
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate          # Windows
+.venv\Scripts\Activate.ps1      # Windows, PowerShell (no Prompt de Comando: .venv\Scripts\activate.bat)
 pip install -r requirements.txt
 ```
 
